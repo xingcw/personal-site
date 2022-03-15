@@ -19,14 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Chunwei. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Chunwei. I am a Master student in Robotics, Systems and Control
+        at <a href="https://ethz.ch/en.html">ETH Zurich</a>. I&apos;m interested in Reinforcement Learning and Robot Control,
+        Robotic Perception, Computer Vision and Machine Learning. I&apos;m currently a research intern at <a href="https://new.abb.com/ch">ABB Schweiz</a>.
       </p>
       <ul className="actions">
         <li>

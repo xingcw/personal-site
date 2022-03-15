@@ -45,8 +45,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - Running
 - Skiing
-- Sailing and the sea
-- Space
+- Ping-Pong/Table Tennis
+- Tennis
+- [Movies](https://www.notion.so/ad6a03796b3642f9aa557d92846d5e86?v=704c62ed21e24c8881f9fb32cf400d70)
 - Summer
 - [Books](https://www.goodreads.com/mdangelo)
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
