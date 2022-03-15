@@ -9,17 +9,17 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/chunwei xing.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Chunwei Xing</h2>
+        <p><a href="mailto:chxing@ethz.ch">chxing@ethz.ch</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
+      <p>Hi, I&apos;m Chunwei. I like building things.
         I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
@@ -37,7 +37,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Chunwei Xing <Link to="/">xingcw.github.io</Link>.</p>
     </section>
   </section>
 );

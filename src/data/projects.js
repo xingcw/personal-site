@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Learning Driven Pose Selection for Sampling-based Planning',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
