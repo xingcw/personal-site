@@ -1,15 +1,27 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
+    school: 'ETH Zurich',
+    degree: 'M.S. Robotics, Systems and Control',
+    link: 'https://ethz.ch/en.html',
+    year: 2020,
+  },
+  {
+    school: 'Tsinghua University',
+    degree: 'B.S. Mechanical Engineering (1st Major)',
+    link: 'https://www.tsinghua.edu.cn/en/',
     year: 2016,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Tsinghua University',
+    degree: 'B.S. Economics (2nd Major)',
+    link: 'https://www.tsinghua.edu.cn/en/',
+    year: 2016,
+  },
+  {
+    school: 'Delft University of Techonolgy',
+    degree: 'Exchange Program',
+    link: 'https://www.tudelft.nl/en/',
+    year: 2018,
   },
 ];
 
