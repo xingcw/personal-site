@@ -9,21 +9,27 @@
   position: relative;
 
   .description {
-    position: absolute;
-    padding: 0;
+    position: relative;
+    /* top | right | bottom | left */
+    padding: 0 1.25em 0.5em 0.8em;
     bottom: 0;
-    border-top: solid 1px _palette(border);
+    top: 0;
+    // align-self: flex-start;
+    display: inline-block;
+    flex: 50%;
 
     p {
-      font-size: 0.9rem;
+      font-size: 1.0rem;
       margin: 0;
-      padding: 1.25em;
+      padding: 0;
       background-color: rgba(255,255,255,.7);
       color: #3c3b3b;
       font-family: "Raleway", Helvetica, sans-serif;
       z-index: 1000;
       transition: all 0.1s;
       -webkit-transition: all 0.1s ease-in-out;
+      text-align: justify;
+      word-spacing: normal;
     }
 
     p:hover {
@@ -31,7 +37,7 @@
     }
   }
   
-  @media (max-width: 480px) {
+  @media (max-width: 500px) {
     .description {
       position: inherit;
       padding: 0;
@@ -47,19 +53,34 @@
   border: solid 1px _palette(border);
   margin: 0 0 _size(element-margin);
 
+  .project-content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   .image {
-    overflow: hidden;
     width: 100%;
+    /* top | right | bottom | left */
+    padding: 0 0.8em 0 1.25em;
+    align-self: flex-start;
+    flex: 50%;
 
     img {
       @include vendor( 'transition', 'transform #{_duration(transition)} ease-out');
       width: 100%;
+      display: block;
     }
 
     &:hover {
       img {
         @include vendor( 'transform', 'scale(1.05)');
       }
+    }
+  }
+
+  @media (max-width: 1000px) {
+    .image, .description {
+      flex: 100%;
     }
   }
 
@@ -71,7 +92,7 @@
     @include vendor( 'flex-grow', '1');
 
     h3 {
-      font-size: 0.7em;
+      font-size: 1em;
     }
 
     .published {
