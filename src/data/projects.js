@@ -7,6 +7,7 @@ const data = [
     date: 'Oct. 2021 - Feb. 2022',
     video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqDSjO-JhPe6wjUJ8h022wVk',
     title_link: '',
+    author: 'Chunwei Xing',
     desc:
     'The motion planning problem for wheeled-legged robots is complicated on challenging terrains. '
     + 'In our previous work, a combined sampling and optimization based method is proposed to solve the problem.'
@@ -24,6 +25,7 @@ const data = [
     title_link: 'https://arxiv.org/abs/2203.00567',
     image: '/images/projects/descriptellation.jpg',
     date: 'Feb. 2021 - Jun. 2021',
+    author: 'Chunwei Xing | Xinyu Sun',
     desc:
       'Current global localization descriptors in Simultaneous Localization and Mapping (SLAM) often fail'
       + 'under vast viewpoint or appearance changes. Adding topological information of semantic objects into the descriptors'
@@ -35,17 +37,20 @@ const data = [
       + 'is trained on randomly generated simulation datasets, it shows good generalization abilities on real-world datasets.'
       + 'Descriptellation outperforms the PointNet and handcrafted constellation descriptors for global localization, and shows robustness against different types of noise.',
   },
-  // {
-  //   title: 'Space Potato',
-  //   subtitle: 'A kickstarter funded potato powered weather balloon.',
-  //   link: 'http://www.spacepotato.org',
-  //   image: '/images/projects/spacepotato.jpg',
-  //   date: '2015-06-28',
-  //   desc:
-  //     'Launched a potato battery powered weather balloon with two cameras '
-  //     + 'and gps transponder. Resulting photos were published in a coffee table book. '
-  //     + 'You can email me for a copy.',
-  // },
+  {
+    title: 'Semi-Direct Visual Odometry',
+    subtitle: 'Vision Algorithms for Mobile Robotics - Course Project',
+    title_link: 'https://rpg.ifi.uzh.ch/teaching.html',
+    video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqCpqSakaCp8zM4E67eLsHRL',
+    image: '/images/projects/vamr.png',
+    date: 'Dec. 2021 - Jan. 2022',
+    author: 'Chunwei Xing | Jin Cheng | Weining Ren | Changlin Qian',
+    desc:
+      'In this mini-project, we developed a semi-direct visual odometry and achieved good performance on KITTI, Garage, Malaga and customized datasets. '
+      + 'Our pipeline is mainly inspired by the mini-SVO and we made some task-specific modifications. '
+      + 'We introduced keyframe machnism into our pipeline and used KLT to track frame-frame correspondences and SURF features for keyframe-keyframe correspondences. '
+      + 'We also introduced sliding window Bundle Adjustment method for optimization. ',
+  },
   // {
   //   title: 'Cat Detector',
   //   subtitle: 'A convolutional neural network to classify cats! (and dogs)',
