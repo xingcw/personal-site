@@ -2,21 +2,21 @@
 // Data Engineering, Data Science, ML Engineering, ... ?
 
 const skills = [
-  // {
-  //   title: 'Javascript',
-  //   competency: 4,
-  //   category: ['Web Development', 'Languages', 'Javascript'],
-  // },
+  {
+    title: 'Javascript',
+    competency: 2,
+    category: ['Web Development', 'Languages', 'Javascript'],
+  },
   // {
   //   title: 'Node.JS',
   //   competency: 3,
   //   category: ['Web Development', 'Javascript'],
   // },
-  // {
-  //   title: 'React',
-  //   competency: 3,
-  //   category: ['Web Development', 'Javascript'],
-  // },
+  {
+    title: 'React',
+    competency: 2,
+    category: ['Web Development', 'Javascript'],
+  },
   {
     title: 'Bash',
     competency: 4,
@@ -100,7 +100,7 @@ const skills = [
   {
     title: 'Numpy',
     competency: 4,
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   // {
   //   title: 'Numba',
@@ -110,28 +110,28 @@ const skills = [
   {
     title: 'Tensorflow + Keras',
     competency: 3,
-    category: ['Data Science', 'Python'],
+    category: ['Machine Learning', 'Python'],
   },
   {
     title: 'PyTorch',
     competency: 4,
-    category: ['Data Science', 'Python'],
+    category: ['Machine Learning', 'Python'],
   },
   {
     title: 'Jupyter',
     competency: 3,
-    category: ['Data Science', 'Python'],
+    category: ['Tools', 'Python'],
   },
   // {
   //   title: 'Typescript',
   //   competency: 2,
   //   category: ['Web Development', 'Languages', 'Javascript'],
   // },
-  // {
-  //   title: 'HTML + SASS/SCSS/CSS',
-  //   competency: 3,
-  //   category: ['Web Development', 'Languages'],
-  // },
+  {
+    title: 'HTML + SASS/SCSS/CSS',
+    competency: 3,
+    category: ['Web Development', 'Languages'],
+  },
   {
     title: 'Python',
     competency: 5,
@@ -175,17 +175,17 @@ const skills = [
   {
     title: 'Pandas',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   {
     title: 'Matplotlib',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   {
     title: 'Scikit-Learn',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Machine Learning', 'Python'],
   },
   // {
   //   title: 'Hadoop',
