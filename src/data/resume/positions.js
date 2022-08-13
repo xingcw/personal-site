@@ -1,7 +1,16 @@
 const positions = [
   {
+    company: 'ABB Corporate Research Center in Switzerland',
+    position: 'Software Developement Intern',
+    link: 'https://global.abb/group/en/technology/corporate-research-centers/switzerland',
+    daterange: 'May. 2022 - Nov. 2022',
+    points: [
+      'Developed Physics-Informed Neural Networks(PINN) to fit the execution time distributions and predict the Worst-Case Execution Time(WCET) of applications running on ABB commercial motor drivers.',
+    ],
+  },
+  {
     company: 'Robotic Systems Lab (RSL), ETHz',
-    position: 'Semester Project',
+    position: 'Semester Project Student',
     link: 'https://rsl.ethz.ch/',
     daterange: 'Oct. 2021 - Feb. 2022',
     points: [
@@ -22,7 +31,7 @@ const positions = [
   },
   {
     company: 'Autonomous Systems Lab (ASL), ETHz',
-    position: 'Course Project',
+    position: 'Course Project Student',
     link: 'https://asl.ethz.ch/',
     daterange: 'Feb. 2021 - Jun. 2021',
     points: [
@@ -33,7 +42,7 @@ const positions = [
   },
   {
     company: 'Mech-Mind Robotics Technologies Ltd.',
-    position: 'Research Intern',
+    position: 'Deep Learning Research Intern',
     link: 'https://www.mech-mind.com/',
     daterange: 'Jul. 2020 - Sep. 2020',
     points: [
@@ -44,7 +53,7 @@ const positions = [
   },
   {
     company: 'Biomanufacturing Center, Tsinghua University',
-    position: 'Bachelor Thesis',
+    position: 'Bachelor Thesis Student',
     link: 'https://www.me.tsinghua.edu.cn/en/info/1024/1041.htm',
     daterange: 'Feb. 2020 - Jun. 2020',
     points: [
@@ -55,7 +64,7 @@ const positions = [
   },
   {
     company: 'Advanced Nanomaterials & Microrobotics Lab, CUHK',
-    position: 'Summer Intern',
+    position: 'Undergraduate Student Researcher',
     link: 'http://www.cuhklizhanggroup.com/',
     daterange: 'Jul. 2019 - Sep. 2019',
     points: [
@@ -66,7 +75,7 @@ const positions = [
   },
   {
     company: 'Institute of Automation, Chinese Academy of Sciences',
-    position: 'Student Research Intern',
+    position: 'Undergraduate Research Assistant',
     link: 'http://english.ia.cas.cn/',
     daterange: 'Mar. 2019 - Jul. 2019',
     points: [
@@ -76,7 +85,7 @@ const positions = [
   },
   {
     company: 'Department of Mechanical Engineering, Tsinghua University',
-    position: 'Studnet Research Training',
+    position: 'Research Training Student',
     link: 'https://www.me.tsinghua.edu.cn/en/',
     daterange: 'Oct. 2017 - Aug. 2018',
     points: [

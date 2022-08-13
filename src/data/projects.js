@@ -7,6 +7,7 @@ const data = [
     date: 'Oct. 2021 - Feb. 2022',
     video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqDSjO-JhPe6wjUJ8h022wVk',
     title_link: '',
+    subtitle_link: '',
     author: 'Chunwei Xing',
     desc:
     'The motion planning problem for wheeled-legged robots is complicated on challenging terrains. '
@@ -20,9 +21,10 @@ const data = [
   },
   {
     title: 'Descriptellation: Deep Learned Constellation Descriptors for SLAM',
-    subtitle: 'Perception Learning for Robotics - Course Project',
+    subtitle: 'Perception and Learning for Robotics - Course Project',
     video_link: 'https://www.youtube.com/watch?v=j_28-maRwmo&list=PL05BR7PIAwqAx0VgwNVHPepqPwg433qfx&index=1',
     title_link: 'https://arxiv.org/abs/2203.00567',
+    subtitle_link: 'https://asl.ethz.ch/education/lectures/perception_and_learning_for_robotics.html',
     image: '/images/projects/descriptellation.jpg',
     date: 'Feb. 2021 - Jun. 2021',
     author: 'Chunwei Xing | Xinyu Sun',
@@ -42,6 +44,7 @@ const data = [
     subtitle: 'Vision Algorithms for Mobile Robotics - Course Project',
     title_link: 'https://rpg.ifi.uzh.ch/teaching.html',
     video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqCpqSakaCp8zM4E67eLsHRL',
+    subtitle_link: 'https://rpg.ifi.uzh.ch/teaching.html',
     image: '/images/projects/vamr.png',
     date: 'Dec. 2021 - Jan. 2022',
     author: 'Chunwei Xing | Jin Cheng | Weining Ren | Changlin Qian',

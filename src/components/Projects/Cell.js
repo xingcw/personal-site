@@ -7,7 +7,7 @@ const Cell = ({ data }) => (
     <article className="mini-post">
       <header>
         <h3><a href={data.title_link}>{data.title}</a></h3>
-        <h4>{data.subtitle}  |  {data.date}</h4>
+        <h4><a href={data.subtitle_link}>{data.subtitle}</a>  |  {data.date}</h4>
         <h4>{data.author}</h4>
         {/* <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time> */}
       </header>
@@ -30,6 +30,7 @@ Cell.propTypes = {
     author: PropTypes.string.isRequired,
     title_link: PropTypes.string,
     video_link: PropTypes.string,
+    subtitle_link: PropTypes.string,
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,
