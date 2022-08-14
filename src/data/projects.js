@@ -51,8 +51,31 @@ const data = [
     desc:
       'In this mini-project, we developed a semi-direct visual odometry and achieved good performance on KITTI, Garage, Malaga and customized datasets. '
       + 'Our pipeline is mainly inspired by the mini-SVO and we made some task-specific modifications. '
-      + 'We introduced keyframe machnism into our pipeline and used KLT to track frame-frame correspondences and SURF features for keyframe-keyframe correspondences. '
+      + 'We introduced keyframe mechanism into our pipeline and used KLT to track frame-frame correspondences and SURF features for keyframe-keyframe correspondences. '
       + 'We also introduced sliding window Bundle Adjustment method for optimization. ',
+  },
+  {
+    title: 'MPC-Based Path Planning and Collision Avoidance for Mobile Robots',
+    subtitle: 'Planning and Decision Making for Autonomous Robots - Course Project',
+    title_link: '',
+    subtitle_link: 'https://idsc-frazzoli.github.io/PDM4AR-exercises/10-final21.html',
+    video_link: '',
+    image: '/images/projects/pdm4ar.png',
+    date: 'Dec. 2021 - Jan. 2022',
+    author: 'Chunwei Xing | Changlin Qian | Kiwan Wong',
+    desc: 'In this program exercise, we implemented a path planing and collision avoidance algorithm based on MPC.'
+      + 'A global path planner, RRT*, and a local path follower, MPC controller, are implemented as the main modules to solve the task.',
+  },
+  {
+    title: 'Kinematics and Dynamics Modelling of Legged Robots',
+    subtitle: 'Computational Models of Motion - Mini-Projects',
+    title_link: '',
+    subtitle_link: '',
+    video_link: '',
+    image: '/images/projects/cmm.png',
+    date: 'Mar. 2022 - Jun. 2022',
+    author: 'Chunwei Xing',
+    desc: 'In these mini-projects, we are assigned various tasks to model the kinematics and dynamics of the legged robots.',
   },
 ];
 

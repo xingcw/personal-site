@@ -33,8 +33,13 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
+          <h2 data-testid="heading">
+            <Link to="resume">Resume</Link>
+          </h2>
           <div className="link-container">
+            <h4 key="Download Resume">
+              <a href={`${process.env.PUBLIC_URL}sources/Resume_Chunwei_Xing.pdf`}>Download</a>
+            </h4>
             {sections.map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>

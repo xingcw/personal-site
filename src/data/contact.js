@@ -5,6 +5,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 // import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
 // import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
@@ -28,6 +29,11 @@ const data = [
     link: 'mailto:chxing@ethz.ch',
     label: 'Email',
     icon: faEnvelope,
+  },
+  {
+    link: 'https://www.youtube.com/channel/UC2LtNWhPDoKiOa8uEkmPJwA/featured',
+    label: 'Youtube Channel',
+    icon: faYoutube,
   },
 ];
 
