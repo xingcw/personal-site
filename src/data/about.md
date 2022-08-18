@@ -3,13 +3,13 @@
 
 <!-- I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch. -->
 
-I'm a master student in Robotics, Systems and Control at ETH Zürich, Switzerland. I'm highly interested in learning-based robotic perception, reinforcement learning and computer vision. 
+I'm currently a second-year master student in Robotics, Systems and Control at ETH Zürich, Switzerland. I'm highly interested in learning-based robotic perception, reinforcement learning and computer vision. 
 
 # Currently
 
 <!-- At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack. -->
 
-I'm working as a research intern in ABB Research Center, Baden, Switzerland.
+I'm working as a software development intern in ABB Research Center, Baden, Switzerland. My responsibility is mainly real-time systems timing analysis and prediction with machine learning methods on ABB commercial platforms.
 
 <!-- # Some history
 

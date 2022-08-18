@@ -63,8 +63,10 @@ const data = [
     image: '/images/projects/pdm4ar.png',
     date: 'Dec. 2021 - Jan. 2022',
     author: 'Chunwei Xing | Changlin Qian | Kiwan Wong',
-    desc: 'In this program exercise, we implemented a path planing and collision avoidance algorithm based on MPC.'
-      + 'A global path planner, RRT*, and a local path follower, MPC controller, are implemented as the main modules to solve the task.',
+    desc: 'In this program exercise, we implemented a path planing and collision avoidance algorithm based on MPC (Model Predictive Control). '
+      + 'Our task is to control the spacecraft to explore in the space full of static and dynamic obstacles within limited accelerates, velocity and time. '
+      + 'A global path planner, RRT*, a local path follower, MPC controller, and a collision detection and avoidance mechanism are implemented as the main modules to solve the task. '
+      + 'Our method passed the test cases and it\'s also scalable and extendable to more complicated environments. ',
   },
   {
     title: 'Kinematics and Dynamics Modelling of Legged Robots',
@@ -75,7 +77,7 @@ const data = [
     image: '/images/projects/cmm.png',
     date: 'Mar. 2022 - Jun. 2022',
     author: 'Chunwei Xing',
-    desc: 'In these mini-projects, we are assigned various tasks to model the kinematics and dynamics of the legged robots.',
+    desc: 'In these mini-projects, I implemented various tasks to model the kinematics and dynamics of the legged robots.',
   },
 ];
 
