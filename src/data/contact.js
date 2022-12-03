@@ -1,9 +1,7 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
-// import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-// import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
-// import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
@@ -34,6 +32,11 @@ const data = [
     link: 'https://www.youtube.com/channel/UC2LtNWhPDoKiOa8uEkmPJwA/featured',
     label: 'Youtube Channel',
     icon: faYoutube,
+  },
+  {
+    link: 'https://www.instagram.com/chunwei.xing/',
+    lable: 'Instgram Profile',
+    icon: faInstagram,
   },
 ];
 

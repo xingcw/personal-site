@@ -1,49 +1,39 @@
 
 # Intro
 
-<!-- I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch. -->
-
-I'm currently a second-year master student in Robotics, Systems and Control at ETH Zürich, Switzerland. I'm highly interested in learning-based robotic perception, reinforcement learning and computer vision. 
+I'm currently a third-year master student in Robotics, Systems and Control at ETH Zürich, Switzerland. I'm highly interested in learning-based robotic perception, reinforcement learning, and vision-based robot control. 
 
 # Currently
 
-<!-- At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack. -->
+I'm working as a Master Thesis Student at Robotics and Perception Group at University of Zürich. The thesis project mainly focus on "Vision-Based
+Drone Flight with Offboard Compute".
 
-I'm working as a software development intern in ABB Research Center, Baden, Switzerland. My responsibility is mainly real-time systems timing analysis and prediction with machine learning methods on ABB commercial platforms.
+# News List
 
-<!-- # Some history
+Dec 2022 -- Finally start my master thesis project at RPG. Great topics and ambitious targets !!
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+May 2022 -- Start to work as a software development intern in ABB Research Center, Baden, Switzerland. My responsibility is mainly real-time systems timing analysis and prediction with machine learning methods on ABB commercial platforms. First full-time job in Switzerland. Work and get paid !!
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+Sep 2020 -- Start my Master's program in Robotics, Systems and Control at ETH Zürich. Heading for my dream university !!
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+Jun 2019 -- Start to work as a undergraduate summer intern in Advanced Nanomaterials & Microrobotics Lab at Chinese University of HongKong, China. Beautiful city and nice lab !!
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+Sep 2018 -- Exchange program in 3ME at Delft University of Technology (TU Delft). First time to study aboard, beautiful country !!
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+# Personal Story
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+At 20, the anime `Naruto: Shippuden` concluded. I have never seen any better long manga series better than Naruto since then.
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+At 18, I finished the College Entrance Exam in Henan, China. Too many things happened after this milestone. I fell in love with my girlfriend after we knew each other for two years and had been deskmates for one year. I received as gifts and was allowed to own my first smart phone and PC.
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
+At 14, I broke one of my front tooth when I played with one of my friends. Half of my original tooth is in a box at my home in China, where is thousands of kilometers far from me now.
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+At 10, I transferred to another bigger school in my county and I lived no longer with families anymore. Every two weeks, we have two days holidays. I still remember the countless mornings I waited in the big square of the school for my bus home.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
+At 6 - 10, I studied at the preliminary school in my countryside. I spent my happy childhood together with other friends there. Although we didn't have video games, we could come up with thousands of ideas to play around and enjoy the beautiful views of our countryside.
 
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
-
-Ask me in person for other stories that I'm afraid to share with the internet. -->
+I was born in a underdeveloped countryside. 
 
 # I like
 
