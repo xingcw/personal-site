@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Chunwei. I am a Master student in Robotics, Systems and Control
         at <a href="https://ethz.ch/en.html">ETH Zurich</a>. I&apos;m interested in Reinforcement Learning and Robot Control,
-        Robotic Perception, Computer Vision and Machine Learning. I&apos;m currently a research intern at <a href="https://new.abb.com/ch">ABB Schweiz</a>.
+        Robotic Perception, Computer Vision and Machine Learning. I&apos;m currently a master thesis student at <a href="https://rpg.ifi.uzh.ch/index.html">Robotics and Perception Group</a> at University of Zurich.
       </p>
       <ul className="actions">
         <li>
