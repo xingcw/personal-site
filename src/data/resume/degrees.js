@@ -8,14 +8,14 @@ const degrees = [
   },
   {
     school: 'Tsinghua University',
-    degree: 'B.S. Mechanical Engineering (1st Major)',
+    degree: 'B.S. Mechanical Engineering (Major)',
     link: 'https://www.tsinghua.edu.cn/en/',
     start_year: 2016,
     end_year: 2020,
   },
   {
     school: 'Tsinghua University',
-    degree: 'B.S. Economics (2nd Major)',
+    degree: 'B.S. Economics (Minor)',
     link: 'https://www.tsinghua.edu.cn/en/',
     start_year: 2016,
     end_year: 2020,

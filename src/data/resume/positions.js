@@ -1,5 +1,14 @@
 const positions = [
   {
+    company: 'Robotics and Perception Group, University of Zurich',
+    position: 'Master Thesis Student',
+    link: 'https://rpg.ifi.uzh.ch/',
+    daterange: 'Dec. 2022 - Present',
+    points: [
+      'To learn robust visual representations from raw image inputs using Vision Transformers(ViT) for reinforcement learning controllers with offboard computing resources.',
+    ],
+  },
+  {
     company: 'ABB Corporate Research Center in Switzerland',
     position: 'Software Developement Intern',
     link: 'https://global.abb/group/en/technology/corporate-research-centers/switzerland',

@@ -73,7 +73,7 @@ const skills = [
   //   category: ['Web Development', 'Python'],
   // },
   {
-    title: 'Git/Mercurial',
+    title: 'Git',
     competency: 4,
     category: ['Tools'],
   },
@@ -129,7 +129,7 @@ const skills = [
   // },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Languages'],
   },
   {
