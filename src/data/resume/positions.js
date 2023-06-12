@@ -5,7 +5,9 @@ const positions = [
     link: 'https://rpg.ifi.uzh.ch/',
     daterange: 'Dec. 2022 - Present',
     points: [
-      'To learn robust visual representations from raw image inputs using Vision Transformers(ViT) for reinforcement learning controllers with offboard computing resources.',
+      'Achieved comparable racing performance with onboard vision-only inputs (gate corners).',
+      'Improved data collecting efficiency and achieved generalizable performances for the imitation learning framework.',
+      'Improved visual representation expressiveness using cross-attention mechanism and fused multi-modal visual embeddings used for vision-based drone racing tasks.',
     ],
   },
   {

@@ -7,6 +7,7 @@
     "jest": true
   },
   "rules": {
+    "max-len": ["error", { "code": 300 }],
     "linebreak-style": ["error", "windows"],
     "jsx-a11y/anchor-is-valid": ["error", {
       "components": ["Link"],
