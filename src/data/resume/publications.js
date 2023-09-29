@@ -12,6 +12,13 @@ const publications = [
     link: '',
     other: '(In submission to ECRTS)',
   },
+
+  {
+    author: 'Jiaxu Xing, Leonard Bauersfeld, Yunlong Song, Chunwei Xing, and Davide Scaramuzza. ',
+    title: 'Contrastive learning for enhancing robust scene transfer in vision-based agile flight.',
+    link: 'https://arxiv.org/abs/2309.09865',
+    other: 'CoRR abs/2309.09865 (2023). (Sumitted to ICRA 2024)',
+  },
 ];
 
 export default publications;
