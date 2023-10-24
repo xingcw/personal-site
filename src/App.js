@@ -1,7 +1,11 @@
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import ReactGA from 'react-ga4';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
+
+const TRACKING_ID = 'G-DJNNQ937RF'; // OUR_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
 
 const { PUBLIC_URL } = process.env;
 
