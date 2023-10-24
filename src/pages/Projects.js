@@ -5,6 +5,10 @@ import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
+import useAnalyticsEventTracker from '../tracker/userAnalyticsEventTracker';
+
+// trackers for the on click event
+const gaEventTracker = useAnalyticsEventTracker('Projects');
 
 const Projects = () => (
   <Main
@@ -14,7 +18,7 @@ const Projects = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
+          <h2 data-testid="heading"><Link to="/projects" onClick={() => gaEventTracker('projects')}>Projects</Link></h2>
           <p>A selection of course and research projects in my Master Program.</p>
         </div>
       </header>

@@ -16,6 +16,11 @@ import positions from '../data/resume/positions';
 import publications from '../data/resume/publications';
 import { skills, categories } from '../data/resume/skills';
 
+import useAnalyticsEventTracker from '../tracker/userAnalyticsEventTracker';
+
+// trackers for the on click event
+const gaEventTracker = useAnalyticsEventTracker('Resume');
+
 const sections = [
   'Education',
   'Publications',
@@ -34,7 +39,7 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading">
-            <Link to="resume">Resume</Link>
+            <Link to="resume" onClick={() => gaEventTracker('resume')}>Resume</Link>
           </h2>
           <div className="link-container">
             <h4 key="Download Resume">
