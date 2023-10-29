@@ -4,10 +4,22 @@
 
   p {
     margin: auto;
+    text-align: justify;
   }
 
   h1 {
     font-size: .8em;
-    margin-top: 3em;
+    margin-top: 2em;
+  }
+
+  h2 a:link {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  p a {
+    // $link-color, eth blue
+    color: #215CAF;
+    text-decoration: underline;
   }
 }
