@@ -1,6 +1,6 @@
 {
   "extends": "airbnb",
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "env": {
     "browser": true,
     "node": true,
@@ -9,7 +9,6 @@
   "rules": {
     "max-len": ["error", { "code": 300 }],
     "linebreak-style": ["error", "windows"],
-    "template-curly-spacing": ["error", "never"],
     "jsx-a11y/anchor-is-valid": ["error", {
       "components": ["Link"],
       "specialLink": ["to", "hrefLeft", "hrefRight"],
