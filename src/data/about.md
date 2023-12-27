@@ -21,7 +21,7 @@ learning-based robotics control.
 I'm working as a Master Thesis Student at Robotics and Perception Group at University of Zürich. The thesis project is "Vision-Based
 Drone Flight with Offboard Compute". -->
 
-# News List
+# News
 
 - Oct 2023 - Start to work as a Research Assistant at [RPG](https://rpg.ifi.uzh.ch/).
 
@@ -55,7 +55,7 @@ where is thousands of kilometers far from me now.
 
 - I was born in a small countryside.  -->
 
-# I like
+<!-- # I like
 
 - Running
 - Skiing
@@ -79,4 +79,7 @@ I inherited this page from the original author, [Michael D'Angelo](https://mldan
 - [Kristina Monakhova](https://kristinamonakhova.com/)
 - [Noah Trueblood](http://notrueblood.com/)
 - [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
+- [Tom Sachs](https://www.tomsachs.org/) -->
+
+# Publications
+

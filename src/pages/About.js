@@ -4,6 +4,8 @@ import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
 
 import Main from '../layouts/Main';
+import PubCell from '../components/About/PubCell';
+import data from '../data/publications';
 import useAnalyticsEventTracker from '../tracker/userAnalyticsEventTracker';
 
 // trackers for the on click event
@@ -38,6 +40,12 @@ const About = () => (
         }}
         escapeHtml={false}
       />
+      {data.map((project) => (
+        <PubCell
+          data={project}
+          key={project.title}
+        />
+      ))}
     </article>
   </Main>
 );
