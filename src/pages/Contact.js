@@ -11,7 +11,7 @@ const gaEventTracker = useAnalyticsEventTracker('Contact');
 const Contact = () => (
   <Main
     title="Contact"
-    description="Contact Chunwei Xing via email @ chxing@ethz.ch"
+    description="Contact Chunwei Xing via email @ chxing@seas.upenn.edu"
   >
     <article className="post" id="contact">
       <header>

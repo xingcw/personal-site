@@ -25,7 +25,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:chxing@ethz.ch',
+    link: 'mailto:chxing@seas.upenn.edu',
     label: 'Email',
     icon: faEnvelope,
   },
