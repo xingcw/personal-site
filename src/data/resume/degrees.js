@@ -1,5 +1,12 @@
 const degrees = [
   {
+    school: 'University of Pennsylvania',
+    degree: 'Ph.D. Electrical and Systems Engineering',
+    link: 'https://www.upenn.edu/',
+    start_year: 2024,
+    end_year: 'present',
+  },
+  {
     school: 'ETH Zurich',
     degree: 'M.S. Robotics, Systems and Control',
     link: 'https://ethz.ch/en.html',

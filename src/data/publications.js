@@ -8,9 +8,9 @@ const data = [
     title_link: 'https://arxiv.org/abs/2309.09865',
     code_link: '',
     author: 'Jiaxu Xing, Leonard Bauersfeld, Yunlong Song, Chunwei Xing, Davide Scaramuzza',
-    journal: 'arXiv',
-    date: '2023',
-    comments: 'Submitted to ICRA 2024.',
+    journal: 'ICRA',
+    date: '2024',
+    comments: '',
   },
   {
     title: 'Descriptellation: Deep Learned Constellation Descriptors.',

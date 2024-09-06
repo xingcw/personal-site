@@ -12,14 +12,8 @@ const data = [
     code_link: '',
     author: 'Chunwei Xing',
     desc:
-    'The motion planning problem for wheeled-legged robots is complicated on challenging terrains. '
-    + 'In our previous work, a combined sampling and optimization based method is proposed to solve the problem. '
-    + 'We expect to further improve the efficiency of the sampling-based planner by substituting the heuristic base pose selector '
-    + 'with a learning-based method. We formulate a Reinforcement Learning (RL) problem for the base pose selector and '
-    + 'optimize the reward functions to excel the potential of learning policy. In this project, we further optimize the RL policy '
-    + 'by experimenting with different training methods. We formulate evaluation metrics for the RL testing and benchmark the performance of our learned policy '
-    + 'based on it. Besides, we benchmark the performance of brute force search method for comparison. In the end, we finish the preparation steps '
-    + 'to integrate our learned policy into the global planner.',
+    'In this project, we trained a RL policy to sample poses and joint configurations for a excavator to traverse different terrains '
+    + 'given its global trajectory on the 2D map. Our method outperforms trditional uniform sampling methods and shows good generalization abilities. ',
   },
   {
     title: 'Descriptellation: Deep Learned Constellation Descriptors for SLAM',
@@ -33,15 +27,8 @@ const data = [
     date: 'Feb. 2021 - Jun. 2021',
     author: 'Chunwei Xing | Xinyu Sun',
     desc:
-      'Current global localization descriptors in Simultaneous Localization and Mapping (SLAM) often fail '
-      + 'under vast viewpoint or appearance changes. Adding topological information of semantic objects into the descriptors '
-      + 'ameliorates the problem. However, hand-crafted topological descriptors extract limited information '
-      + 'and they are not robust to environmental noise, drastic perspective changes, or object occlusion or misdetections. '
-      + 'To solve this problem, we formulate a learning-based approach by constructing constellations from semantically meaningful objects '
-      + 'and use Deep Graph Convolution Networks to map the constellation representation to a descriptor. We demonstrate the effectiveness '
-      + 'of our Deep Learned Constellation Descriptor (Descriptellation) on the Paris-Rue-Lille and IQmulus datasets. Although Descriptellation '
-      + 'is trained on randomly generated simulation datasets, it shows good generalization abilities on real-world datasets. '
-      + 'Descriptellation outperforms the PointNet and handcrafted constellation descriptors for global localization, and shows robustness against different types of noise.',
+      'We formulate a learning-based approach by constructing constellations from semantically meaningful objects '
+      + 'and use Deep Graph Convolution Networks to map the constellation representation to a descriptor. Our method outperforms the PointNet and handcrafted constellation descriptors for global localization, and shows robustness against different types of noise.',
   },
   {
     title: 'Semi-Direct Visual Odometry',
@@ -55,10 +42,7 @@ const data = [
     date: 'Dec. 2021 - Jan. 2022',
     author: 'Chunwei Xing | Jin Cheng | Weining Ren | Changlin Qian',
     desc:
-      'In this mini-project, we developed a semi-direct visual odometry and achieved good performance on KITTI, Garage, Malaga and customized datasets. '
-      + 'Our pipeline is mainly inspired by the mini-SVO and we made some task-specific modifications. '
-      + 'We introduced keyframe mechanism into our pipeline and used KLT to track frame-frame correspondences and SURF features for keyframe-keyframe correspondences. '
-      + 'We also introduced sliding window Bundle Adjustment method for optimization. ',
+      'In this mini-project, we developed a semi-direct visual odometry and achieved good performance on KITTI, Garage, Malaga and customized datasets. ',
   },
   {
     title: 'MPC-Based Path Planning and Collision Avoidance for Mobile Robots',
@@ -71,10 +55,9 @@ const data = [
     image: '/images/projects/pdm4ar.png',
     date: 'Dec. 2021 - Jan. 2022',
     author: 'Chunwei Xing | Changlin Qian | Kiwan Wong',
-    desc: 'In this program exercise, we implemented a path planing and collision avoidance algorithm based on MPC (Model Predictive Control). '
-      + 'Our task is to control the spacecraft to explore in the space full of static and dynamic obstacles within limited accelerates, velocity and time. '
-      + 'A global path planner, RRT*, a local path follower, MPC controller, and a collision detection and avoidance mechanism are implemented as the main modules to solve the task. '
-      + 'Our method passed the test cases and it\'s also scalable and extendable to more complicated environments. ',
+    desc: 'In this program exercise, we implemented a path planing and collision avoidance algorithm based on MPC '
+      + 'to control the spacecraft to explore in the space full of static and dynamic obstacles. '
+      + 'A global path planner, RRT*, a local path follower, MPC controller, and a collision detection and avoidance mechanism are implemented.',
   },
   {
     title: 'Kinematics and Dynamics Modelling of Legged Robots',
