@@ -3,18 +3,12 @@
 
 I'm currently a first-year PhD student at [Janus Intelligent Robots Lab (JIRL)](https://jirl-upenn.github.io/), University of Pennsylvania. I am advised by [Prof. Antonio Loquercio](https://antonilo.github.io/).
 
-Before joining JIRL, I was a Research Assistant at [Robotics and Perception Group(RPG)](https://rpg.ifi.uzh.ch/) dierected
-by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) at the University of Zurich. 
-I received my Master's degree in Robotics, Systems and Control at [ETH Zürich](https://ethz.ch/de.html) in 2023. I
-finished my master thesis at [RPG](https://rpg.ifi.uzh.ch/), focusing on the vision-based reinforcement learning 
-for autonomous drone racing. 
+Before joining JIRL, I was a Research Assistant at [RPG](https://rpg.ifi.uzh.ch/) dierected
+by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) at University of Zurich. 
 
-During my master's studies, I worked as a semester project student 
-at [Robotic Systems Lab(RSL)](https://rsl.ethz.ch/)
-directed by [Prof. Dr. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html).
-I also worked at [Autonomous Systems Lab(ASL)](https://asl.ethz.ch/) directed by 
-[Prof. Dr. Roland Siegwart](https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html) for 
-the [Perception Learning for Robotics](https://asl.ethz.ch/education/lectures/perception_and_learning_for_robotics.html) course project.
+I received my Master's degree in Robotics, Systems and Control at ETH Zürich in 2023. I
+finished my master thesis at [RPG](https://rpg.ifi.uzh.ch/), focusing on the vision-based reinforcement learning 
+for autonomous drone racing. I also worked on semester projects at [RSL](https://rsl.ethz.ch/) and [ASL](https://asl.ethz.ch/).
 
 I got my Bachelor's degree in Mechanical Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
 
