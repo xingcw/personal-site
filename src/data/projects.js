@@ -30,48 +30,6 @@ const data = [
       'We formulate a learning-based approach by constructing constellations from semantically meaningful objects '
       + 'and use Deep Graph Convolution Networks to map the constellation representation to a descriptor. Our method outperforms the PointNet and handcrafted constellation descriptors for global localization, and shows robustness against different types of noise.',
   },
-  {
-    title: 'Semi-Direct Visual Odometry',
-    subtitle: 'Vision Algorithms for Mobile Robotics - Course Project',
-    title_link: 'https://rpg.ifi.uzh.ch/teaching.html',
-    video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqCpqSakaCp8zM4E67eLsHRL',
-    slides_link: '',
-    subtitle_link: 'https://rpg.ifi.uzh.ch/teaching.html',
-    code_link: 'https://github.com/rwn17/VAMR',
-    image: '/images/projects/vamr.png',
-    date: 'Dec. 2021 - Jan. 2022',
-    author: 'Chunwei Xing | Jin Cheng | Weining Ren | Changlin Qian',
-    desc:
-      'In this mini-project, we developed a semi-direct visual odometry and achieved good performance on KITTI, Garage, Malaga and customized datasets. ',
-  },
-  {
-    title: 'MPC-Based Path Planning and Collision Avoidance for Mobile Robots',
-    subtitle: 'Planning and Decision Making for Autonomous Robots - Course Project',
-    title_link: '',
-    subtitle_link: 'https://idsc-frazzoli.github.io/PDM4AR-exercises/10-final21.html',
-    code_link: 'https://github.com/xingcw/PDM4AR_Project',
-    video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqD3PHP3Iehm7MMpkkuLFh5O',
-    slides_link: '',
-    image: '/images/projects/pdm4ar.png',
-    date: 'Dec. 2021 - Jan. 2022',
-    author: 'Chunwei Xing | Changlin Qian | Kiwan Wong',
-    desc: 'In this program exercise, we implemented a path planing and collision avoidance algorithm based on MPC '
-      + 'to control the spacecraft to explore in the space full of static and dynamic obstacles. '
-      + 'A global path planner, RRT*, a local path follower, MPC controller, and a collision detection and avoidance mechanism are implemented.',
-  },
-  {
-    title: 'Kinematics and Dynamics Modelling of Legged Robots',
-    subtitle: 'Computational Models of Motion - Mini-Projects',
-    title_link: '',
-    subtitle_link: '',
-    video_link: 'https://youtube.com/playlist?list=PL05BR7PIAwqCvgHkd9qis5xTmW69q2vH0',
-    slides_link: '',
-    code_link: 'https://github.com/CMM-22',
-    image: '/images/projects/cmm.png',
-    date: 'Mar. 2022 - Jun. 2022',
-    author: 'Chunwei Xing',
-    desc: 'In these mini-projects, I implemented various tasks to model the kinematics and dynamics of the legged robots.',
-  },
 ];
 
 export default data;
