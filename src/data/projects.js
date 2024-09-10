@@ -12,8 +12,7 @@ const data = [
     code_link: '',
     author: 'Chunwei Xing',
     desc:
-    'In this project, we trained a RL policy to sample poses and joint configurations for a excavator to traverse different terrains '
-    + 'given its global trajectory on the 2D map. Our method outperforms trditional uniform sampling methods and shows good generalization abilities. ',
+    'In this project, we trained a RL policy to to generate optimal poses and joint configurations for an excavator as it navigates diverse terrains, guided by a global trajectory on a 2D map. Our approach surpasses traditional uniform sampling methods, demonstrating superior performance and strong generalization capabilities across various terrain types.',
   },
   {
     title: 'Descriptellation: Deep Learned Constellation Descriptors for SLAM',
@@ -27,8 +26,7 @@ const data = [
     date: 'Feb. 2021 - Jun. 2021',
     author: 'Chunwei Xing | Xinyu Sun',
     desc:
-      'We formulate a learning-based approach by constructing constellations from semantically meaningful objects '
-      + 'and use Deep Graph Convolution Networks to map the constellation representation to a descriptor. Our method outperforms the PointNet and handcrafted constellation descriptors for global localization, and shows robustness against different types of noise.',
+      'We propose a learning-based approach that constructs constellations from semantically meaningful objects and utilizes Deep Graph Convolutional Networks to map these constellations to descriptive representations. Our method outperforms both PointNet and handcrafted constellation descriptors in global localization, while demonstrating robustness against various types of noise.',
   },
 ];
 
